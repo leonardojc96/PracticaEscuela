@@ -18,6 +18,7 @@ namespace PracticaEscuela
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Inicio());
             Console.WriteLine("Github");
+            Console.WriteLine("Github");
         }
     }
 }
