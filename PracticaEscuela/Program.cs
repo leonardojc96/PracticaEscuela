@@ -17,6 +17,7 @@ namespace PracticaEscuela
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Inicio());
+            MessageBox.Show("Hola");
         }
     }
 }
